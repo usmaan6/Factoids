@@ -1,0 +1,11 @@
+c:\Users\usman\Desktop\csc363-20223-farooqiu\final-project\target\debug\deps\gloo_net-de6c16dbd50d0f3d.rmeta: C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\lib.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\error.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\mod.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\headers.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\mod.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\events.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\futures.rs
+
+c:\Users\usman\Desktop\csc363-20223-farooqiu\final-project\target\debug\deps\gloo_net-de6c16dbd50d0f3d.d: C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\lib.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\error.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\mod.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\headers.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\mod.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\events.rs C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\futures.rs
+
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\lib.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\error.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\mod.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\http\headers.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\mod.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\events.rs:
+C:\Users\usman\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-net-0.1.0\src\websocket\futures.rs:

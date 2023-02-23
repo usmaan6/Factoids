@@ -1,0 +1,55 @@
+
+.today{
+    grid-template-columns: repeat(auto-fit, minimax(50px, 1fr));
+    text-align: center;
+    background-color:#c89666;
+}
+
+.deaths{
+    position: relative; bottom: 300px;
+    text-align: right;
+}
+.births{
+    color: white;
+    font-style: oblique;
+}
+
+.dTitle{
+    color: white;
+    font-style: oblique;
+}
+
+.new-month{
+    text-align: center;
+    margin: auto;
+    display: block;
+    position: relative; bottom: -700px;
+    object-position: center;
+}
+
+.new-date{
+    text-align: center;
+    margin: auto;
+    display: block;
+    position: relative; bottom: -700px;
+    object-position: center;
+}
+
+.random{
+    grid-template-columns: repeat(auto-fit, minimax(50px, 1fr));
+    text-align: center;
+    background-color:#c89666;
+    position: relative; bottom: 300px;
+}
+
+html {
+    background-color:  #e1b382;
+}
+
+body {
+    
+}
+
+img {
+    height: 50px;
+}
